@@ -4,10 +4,10 @@
     "logo": "https://telegra.ph/file/5e6b637122b3353a7902b.jpg",
     "keywords": ["Simple", "SIMPLE-BOT"],
     "stack": "container",
-    "repository": "https://github.com/kaviyane/kaviyane.git",
+
     "env": {
       "ASIATA_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@AsiataWa/SL-ASIATA-QR-SESSION .",
+            "description": "Paste your QR session that you got from http://github.com kaviyane/kaviyane.git.",
             "required": true
         },
         "BUTTON_CMD": {
