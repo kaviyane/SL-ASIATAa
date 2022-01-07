@@ -7,7 +7,7 @@
 
     "env": {
       "ASIATA_SESSION": {
-            "description": "Paste your QR session that you got from http://github.com kaviyane/kaviyane.git.",
+            "description": "Paste your QR session that you got from http://github.com kaviyane/kaviyane.git .",
             "required": true
         },
         "BUTTON_CMD": {
